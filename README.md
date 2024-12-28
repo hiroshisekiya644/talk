@@ -11,7 +11,7 @@ It is built using WebRTC, so all your video chat is peer-to-peer. Group video ca
 ### How to Build this app locally
 
 Clone the repo locally, or extract the contents of the source code.
-
+ 
 ```
 git clone https://github.com/vasanthv/talk.git
 ```
